@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import { Col } from 'reactstrap';
 import Footer from './Footer';
 import CartItem from './CartItem';
 
